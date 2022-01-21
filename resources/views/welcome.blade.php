@@ -24,7 +24,7 @@
             <section class="container about-me"></section>
                 <h2 class="title"> Our design techniques</h2>
                 <div class="container-about-me">
-                    <img src="img/ourtecniquesallencarlos.svg" alt="" class="image-our-tecniques">
+                    <img src="{{ asset('img/ourtecniquesallencarlos.svg') }}" alt="" class="image-our-tecniques">
                     <div class="container-texts">
                         <h3 class=""><span>1</span> The best design techniques </h3>
                         <p class="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus veritatis minima ipsam. Accusantium eum, debitis vero laudantium officiis ut eligendi odio, corporis dolores dignissimos, repudiandae dolorum itaque facere magnam. Sapiente!</p>
