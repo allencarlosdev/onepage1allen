@@ -34,6 +34,56 @@
                         <p class="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus veritatis minima ipsam. Accusantium eum, debitis vero laudantium officiis ut eligendi odio, corporis dolores dignissimos, repudiandae dolorum itaque facere magnam. Sapiente!</p>
                     </div>
                 </div>
+                <section class="gallery-of-designs">
+                    <div class="container">
+                        <h2 class="title">Gallery of Designs</h2>
+                        <div class="gallery">
+                            <div class="images-gallery">
+                                <img src="{{ asset('img/gallery1.svg') }}" alt="">
+                                <div class="hover-gallery">
+                                    <h3> Image 1</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, qui.</p>
+                                </div>
+                            </div>
+                            <div class="images-gallery">
+                                <img src="{{ asset('img/gallery2.svg') }}" alt="">
+                                <div class="hover-gallery">
+                                    <h3> Image 2</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, qui.</p>
+                                </div>
+                            </div>
+                            <div class="images-gallery">
+                                <img src="{{ asset('img/gallery3.svg') }}" alt="">
+                                <div class="hover-gallery">
+                                    <h3> Image 3</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, qui.</p>
+                                </div>
+                            </div>
+                            <div class="images-gallery">
+                                <img src="{{ asset('img/gallery4.svg') }}" alt="">
+                                <div class="hover-gallery">
+                                    <h3> Image 4</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, qui.</p>
+                                </div>
+                            </div>
+                            <div class="images-gallery">
+                                <img src="{{ asset('img/gallery5.svg') }}" alt="">
+                                <div class="hover-gallery">
+                                    <h3> Image 5</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, qui.</p>
+                                </div>
+                            </div>
+                            <div class="images-gallery">
+                                <img src="{{ asset('img/gallery6.svg') }}" alt="">
+                                <div class="hover-gallery">
+                                    <h3> Image 6</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, qui.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </section>
         </main>
     </header>
 </body>
