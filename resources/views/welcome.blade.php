@@ -123,6 +123,23 @@
             </div>
         </section>
     </main>
+    <footer>
+        <div id="contact" class="container-footer">
+            <div class="content-footer">
+                <ul class="socials">
+                    <li><a href="https://github.com/CarlosAllen93" target="_blank"><i class="fa fa-github"></i></a></li>
+                    <li><a href="https://stackoverflow.com/users/16209550/carlos-allen" target="_blank"><i
+                                class="fa fa-stack-overflow"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/carlos-wilder-allen-pe%C3%B1a-7a7699123/" target="_blank"><i
+                                class="fa fa-linkedin"></i></a></li>
+                    <li><i class="fas fa-envelope-square"></i><h4>Email</h4><p> Allencarlosdev@gmail.com</p></li>
+                </ul>
+            </div>
+        </div>
+        <h2 class="copyright"> &copy; All copyrights - AllenCarlosdev 2022</h2>
+    </footer>
+    <!-- icon awesome-->
+    <script src="https://kit.fontawesome.com/8d2cede7ac.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
