@@ -25,7 +25,7 @@
                 <h2 class="title"> Our design techniques</h2>
                 <div class="container-about-me">
                     <img src="{{ asset('img/ourtecniquesallencarlos.svg') }}" alt="" class="image-our-tecniques">
-                    <div class="container-texts">
+                    <div class="content-texts">
                         <h3 class=""><span>1</span> The best design techniques </h3>
                         <p class="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus veritatis minima ipsam. Accusantium eum, debitis vero laudantium officiis ut eligendi odio, corporis dolores dignissimos, repudiandae dolorum itaque facere magnam. Sapiente!</p>
                         <h3 class=""><span>2</span> The largest community of designers </h3>
@@ -82,7 +82,27 @@
                             </div>
                         </div>
                     </div>
-
+                </section>
+                <section class="designer container">
+                    <h2 class="title"> Designer</h2>
+                    <div class="cards">
+                        <div class="card">
+                            <img src="{{ asset('img/designer1.svg') }}" alt="">
+                            <div class="content-text-card">
+                                <h4>Carlos Allen</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, ad!</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cards">
+                        <div class="card">
+                            <img src="{{ asset('img/designer1.svg') }}" alt="">
+                            <div class="content-text-card">
+                                <h4>Carlos Allen</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, ad!</p>
+                            </div>
+                        </div>
+                    </div>
                 </section>
         </main>
     </header>
